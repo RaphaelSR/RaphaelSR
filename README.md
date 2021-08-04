@@ -2,7 +2,7 @@
 
 **I'm a full stack developer.**
 
-- DevSkills: JavaScript, React, React Native, NodeJs, C, Java, HTML, CSS, UI Design.
+- DevSkills: JavaScript, TypeScript, React, React Native, NodeJs, C, Java, HTML, CSS, UI Design.
 - Always improving my skills and learning new technologies: Elixir, Kotlin.
 - Tools: VSCode, Android Studio, IntelliJ IDEA, Figma, Github and Git.
 - Reach me: raphaelrochabcc@gmail.com 
