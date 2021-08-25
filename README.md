@@ -1,6 +1,6 @@
 # Hey, i'm Raphael!  👋😃
 
-**I'm a full stack developer.**
+**I'm a software developer.**
 
 - DevSkills: JavaScript, TypeScript, React, React Native, NodeJs, C, Java, HTML, CSS, UI Design.
 - Always improving my skills and learning new technologies: Elixir, Kotlin.
