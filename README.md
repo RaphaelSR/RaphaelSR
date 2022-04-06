@@ -1,5 +1,7 @@
 # Hey, i'm Raphael!  👋😃
 
+Reach my other Github profile: https://github.com/RaphaelSR2
+
 **I'm a software developer.**
 
 - DevSkills: JavaScript, TypeScript, React, React Native, NodeJs, C, Java, HTML, CSS, UI Design.
